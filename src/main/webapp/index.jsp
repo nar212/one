@@ -77,7 +77,7 @@
             <div id="cart-items">
                 <!-- Cart items will be inserted here -->
             </div>
-            <div id="cart-total">
+            <div id="cart-total123">
                 <p>Total: ₹<span id="total-amt">0</span></p> <!-- Bug: ID mismatch (should be total-amount) -->
                 <button id="checkout-button">Proceed to Checkout</button> <!-- Bug: ID mismatch (should be checkout-btn) -->
             </div>
